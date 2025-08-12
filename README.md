@@ -46,7 +46,7 @@ A modern, offline-first task management app built with <strong>Flutter</strong> 
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
       <img src="assets/screenshots/mockup2.png" width="100%" alt="Grid and List View" /><br/>
-      <strong>📋 List & Grid View</strong><br/>
+      <strong>📋Grid View Homescreen (Light/Dark)</strong><br/>
       <sub>Switch between List and Grid layouts for your tasks instantly.</sub>
     </td>
   </tr>
