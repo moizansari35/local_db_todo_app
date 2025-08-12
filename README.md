@@ -1,8 +1,8 @@
-<h1>📝 Local_DB_App – Smart Offline Task Manager</h1>
+<h1>📝 Smart Offline Task Manager – Local_DB_App</h1>
 
 <p>
 A modern, offline-first task management app built with <strong>Flutter</strong> that uses <strong>Sqflite</strong> to store and manage data locally.  
-<strong>Local_DB_App</strong> lets you create, edit, delete, search, filter, and track your tasks without an internet connection — complete with light/dark mode and a visual progress chart.
+<strong>Smart Offline Task Manager – Local_DB_App</strong> lets you create, edit, delete, search, filter, and track your tasks without an internet connection — complete with light/dark mode and a visual progress chart.
 </p>
 
 <hr/>
@@ -54,7 +54,7 @@ A modern, offline-first task management app built with <strong>Flutter</strong> 
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
       <img src="assets/screenshots/mockup3.png" width="100%" alt="Add Task" /><br/>
       <strong>➕ Add Task (Light/Dark)</strong><br/>
-      <sub>Create new tasks with title, description, and category — light and dark mode supported.</sub>
+      <sub>Create new tasks with title and description— light and dark mode supported.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
       <img src="assets/screenshots/mockup4.png" width="100%" alt="Edit Task" /><br/>
@@ -77,7 +77,7 @@ A modern, offline-first task management app built with <strong>Flutter</strong> 
 </table>
 
 <p align="center">
-  <i>🌟 Stay organized — manage your tasks offline with Local_DB_App.</i>
+  <i>🌟 Stay organized — manage your tasks offline with Smart Offline Task Manager.</i>
 </p>
 
 <hr/>
